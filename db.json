@@ -1,0 +1,167 @@
+{
+    "allPropiedades": {
+        "info": {
+            "count": 3,
+            "pages": 1,
+            "next": null,
+            "prev": null
+        },
+        "results": [
+            {
+                "id": 1, 
+                "direccion": "9 de Julio", 
+                "edificio": "",
+                "servicios": [
+                    {
+                        "nombre": "agua",
+                        "fechas": ["11/24", "01/25", "02/25", "03/25"]
+                    },
+                    {
+                        "nombre": "luz",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": ["01/25", "02/25"]
+                    }
+                ]
+            },
+            { 
+                "id": 2, 
+                "direccion": "Roma", 
+                "edificio": "Aguamarina V",
+                "servicios": [
+                    {
+                        "nombre": "agua",
+                        "fechas": ["01/25", "02/25", "03/25"]
+                    },
+                    {
+                        "nombre": "rentas",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": []
+                    }
+                ]
+            },
+            { 
+                "id": 3, 
+                "direccion": "Obispo Trejo", 
+                "edificio": "Aguamarina I",
+                "servicios": [
+                    {
+                        "nombre": "agua",
+                        "fechas": ["01/25", "02/25", "03/25"]
+                    },
+                    {
+                        "nombre": "luz",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": ["01/25", "02/25"]
+                    }
+                ]
+            }
+        ]
+    },
+    "propiedades": [
+            { 
+                "id": 1, 
+                "direccion": "9 de Julio", 
+                "edificio": "",
+                "servicios": [
+                    {
+                        "nombre": "agua",
+                        "fechas": ["11/24", "01/25", "02/25", "03/25", "04/25"]
+                    },
+                    {
+                        "nombre": "luz",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": ["01/25", "02/25"]
+                    }
+                ]
+            },
+            { 
+                "id": 2, 
+                "direccion": "Roma", 
+                "edificio": "Aguamarina V",
+                "servicios": [
+                    {
+                        "nombre": "agua",
+                        "fechas": ["01/25", "02/25", "03/25"]
+                    },
+                    {
+                        "nombre": "rentas",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": []
+                    }
+                ]
+            },
+            { 
+                "id": 3, 
+                "direccion": "Obispo Trejo", 
+                "edificio": "Aguamarina I",
+                "servicios": [
+                    {
+                        "nombre": "agua",
+                        "fechas": ["01/25", "02/25", "03/25"]
+                    },
+                    {
+                        "nombre": "luz",
+                        "fechas": ["01/25", "02/25"]
+                    },
+                    {
+                        "nombre": "gas",
+                        "fechas": ["01/25", "02/25"]
+                    }
+                ]
+            }
+        ],
+    "personas": [
+        { 
+            "id": 23767418, 
+            "nombre": "Juan Carlos", 
+            "apellido": "Martinez", 
+            "propiedades": [
+                {
+                    "id": "1",
+                    "fechaIngreso": "01/08/2023"
+                },
+                {
+                    "id": "2",
+                    "fechaIngreso": "08/01/2025"
+                }
+            ]
+        },
+        { 
+            "id": 12345678, 
+            "nombre": "Juan Cruz", 
+            "apellido": "Suarez", 
+            "propiedades": [
+                {
+                    "id": "2",
+                    "fechaIngreso": "08/07/2024"
+                }
+            ]
+        },
+        { 
+            "id": 87654321, 
+            "nombre": "Pedro", 
+            "apellido": "Yelich", 
+            "propiedades": [
+                {
+                    "id": "3",
+                    "fechaIngreso": "08/07/2024"
+                }
+            ]
+        }
+    ]
+}

@@ -158,8 +158,12 @@
             "apellido": "Yelich", 
             "propiedades": [
                 {
-                    "id": "3",
+                    "id": "1",
                     "fechaIngreso": "08/07/2024"
+                },
+                {
+                    "id": "2",
+                    "fechaIngreso": "08/01/2025"
                 }
             ]
         }

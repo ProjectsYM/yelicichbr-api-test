@@ -154,7 +154,7 @@
         },
         { 
             "id": 12345678, 
-            "nombre": "Pedro", 
+            "nombre": "Marco Aurelio", 
             "apellido": "Yelich", 
             "propiedades": [
                 {
@@ -165,7 +165,8 @@
                     "id": "2",
                     "fechaIngreso": "08/01/2025"
                 }
-            ]
+            ],
+            "isAdmin": false
         }
     ]
 }

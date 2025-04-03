@@ -166,7 +166,7 @@
                     "fechaIngreso": "08/01/2025"
                 }
             ],
-            "isAdmin": false
+            "isAdmin": true
         }
     ]
 }
